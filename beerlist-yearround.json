@@ -1,37 +1,37 @@
 [
-    {   id : 0, 
-        name : 'Hoppy', 
-        style : 'Farmhouse Lager',
-        abv : 5.1, 
-        ibu : 30 , 
-        price : 8000
+    {   "id" : 0, 
+        "name" : "Hoppy", 
+        "style" : "Farmhouse Lager",
+        "abv" : 5.1, 
+        "ibu" : 30 , 
+        "price" : 8000
     },
-    {   id : 1,
-        name : 'SunShower',
-        style : 'Pilsner',
-        abv : 5.1,
-        ibu : 25,
-        price : 8000
+    {   "id" : 1,
+        "name" : "SunShower",
+        "style" : "Pilsner",
+        "abv" : 5.1,
+        "ibu" : 25,
+        "price" : 8000
     },
-    {   id : 2,
-        name : 'Berry',
-        style : 'American Pale Ale',
-        abv : 5.1,
-        ibu : 35,
-        price : 8000
+    {   "id" : 2,
+        "name" : "Berry",
+        "style" : "American Pale Ale",
+        "abv" : 5.1,
+        "ibu" : 35,
+        "price" : 8000
     },
-    {   id : 3, 
-        name : 'Before SunSet', 
-        style : 'West Coast IPA',
-        abv : 5.7, 
-        ibu : 45 , 
-        price : 9000
+    {   "id" : 3, 
+        "name" : "Before SunSet", 
+        "style" : "West Coast IPA",
+        "abv" : 5.7, 
+        "ibu" : 45 , 
+        "price" : 9000
     },
-    {   id : 4,
-        name : 'Hefe',
-        style : 'Hefeweizen',
-        abv : 4.1,
-        ibu : 5,
-        price : 8000
+    {   "id" : 4,
+        "name" : "Hefe",
+        "style" : "Hefeweizen",
+        "abv" : 4.1,
+        "ibu" : 5,
+        "price" : 8000
     }
 ]
