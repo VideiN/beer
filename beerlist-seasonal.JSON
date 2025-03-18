@@ -1,0 +1,50 @@
+[
+    {
+        "id": 5,
+        "name": "Beach Saison",
+        "style": "Saison",
+        "abv": 5.1,
+        "ibu": 35,
+        "price": 8000
+    },
+    {
+        "id": 6,
+        "name": "Crew X",
+        "style": "American Wheat Ale",
+        "abv": 5.8,
+        "ibu": 35,
+        "price": 9500
+    },
+    {
+        "id": 7,
+        "name": "Pastello",
+        "style": "New England IPA",
+        "abv": 6.5,
+        "ibu": 45,
+        "price": 10000
+    },
+    {
+        "id": 8,
+        "name": "Heavy Drinker",
+        "style": "Double IPA",
+        "abv": 8.5,
+        "ibu": 75,
+        "price": 12000
+    },
+    {
+        "id": 9,
+        "name": "Double Room",
+        "style": "Oatmeal Stout",
+        "abv": 9.5,
+        "ibu": 40,
+        "price": 10000
+    },
+    {
+        "id": 10,
+        "name": "New Moon",
+        "style": "Baltic Porter",
+        "abv": 9.5,
+        "ibu": 40,
+        "price": 10000
+    }
+]
